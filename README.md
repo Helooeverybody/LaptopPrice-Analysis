@@ -9,10 +9,10 @@ on exploring the complex relationships between various laptop
 specifications, such as CPU, GPU, RAM, storage, and display,
 as well as their influence on price. By analyzing a massive manually
 collected dataset, we uncover how different components interact and
-contribute to overall performance and pricing. The study includes de-
-tailed information on the correlations among key features, trends in
-price segments, and the identification of the most impactful specifica-
-tions. Furthermore, multiple machine learning models are developed
+contribute to overall performance and pricing. The study includes detailed
+information on the correlations among key features, trends in
+price segments, and the identification of the most impactful specifications
+. Furthermore, multiple machine learning models are developed
 to predict laptop prices and performance scores based on their 
 specifications. The findings are presented through intuitive visualizations,
 enabling manufacturers and consumers to make data-driven decisions
